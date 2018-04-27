@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bucket List</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_add_item">Create</string>
+    <string name="title_activity_list_and_history">Bucket List</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+</resources>

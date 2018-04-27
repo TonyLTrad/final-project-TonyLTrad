@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "996987381549",
+    "firebase_url": "https://bucket-list-91f8e.firebaseio.com",
+    "project_id": "bucket-list-91f8e",
+    "storage_bucket": "bucket-list-91f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996987381549:android:6c5e124e3a5c6e3c",
+        "android_client_info": {
+          "package_name": "com.trad.anthony.bucketlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996987381549-ilvkrngo5veumofpa8qmitgfdq95dq5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV_qTuFHGMsTlBJntN5R2n5_yyLeDN_lU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
